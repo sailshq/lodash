@@ -1,6 +1,6 @@
 # @sailshq/lodash
 
-A fork of Lodash 3.10.x with ongoing maintainence from the Sails core team.
+A fork of Lodash 3.10.x with ongoing maintenance from the Sails core team.
 
 This repo will only be updated when there are immediate, material issues affecting expected usage, like [this one](https://github.com/lodash/lodash/issues/2768).  Our goal is to diverge as little as possible, and to encourage the use of Lodash 4 and above whenever possible.  This repo is really just for us, and anyone else who really likes Lodash 3 exactly the way it is.
 

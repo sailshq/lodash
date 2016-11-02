@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "test": "echo 'For tests, see https://github.com/lodash/lodash/tree/3.10.1/test'"
+    "test": "echo 'For tests, see https://github.com/lodash/lodash/tree/3.10.1/test.' && echo 'But still, running a quick sanity check...' && node test.js"
   },
   "keywords": [
     "lodash-3",

@@ -20,3 +20,4 @@ CONTRIBUTING.md
 .github
 test
 tests
+./test.js

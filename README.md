@@ -41,6 +41,8 @@ Please observe the guidelines and conventions laid out in the [Sails project con
 
 [Lodash](http://lodash.com) is free and open source under the [MIT License](https://github.com/lodash/lodash/blob/3.10.1/LICENSE).
 
+All ad hoc additions in this repo are also MIT-licensed.
+
 ### Sails framework license
 
 The [Sails framework](http://sailsjs.com) is free and open-source under the [MIT License](http://sailsjs.com/license).

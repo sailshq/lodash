@@ -15,7 +15,7 @@ This repo will only be updated when there are immediate, material issues affecti
 >
 > If your app is using Sails v1.0 or above, or if you are on <=0.12, but are not using the Lodash global,
 > then you needn't worry about this package-- it is used interally in Sails, but does not touch userland
-> code in your application.  [Click here](http://sailsjs.com/documentation/reference/configuration/sails-config-globals)
+> code in your application.  [Click here](http://next.sailsjs.com/documentation/reference/configuration/sails-config-globals)
 > to learn about how the Lodash global works in Sails v1.0.
 >
 > On the other hand, if your app _is_ using Sails <=0.12 and you _are_ using the Lodash global:

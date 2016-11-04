@@ -24,7 +24,7 @@ This repo will only be updated when there are immediate, material issues affecti
 
 
 
-## Bugs &nbsp; [![NPM version](https://badge.fury.io/js/@sailshq/lodash.svg)](http://npmjs.com/package/@sailshq/lodash)
+## Bugs &nbsp; [![npm version](https://badge.fury.io/js/%40sailshq%2Flodash.svg)](https://badge.fury.io/js/%40sailshq%2Flodash)
 
 To report a bug, [click here](http://sailsjs.com/bugs).
 

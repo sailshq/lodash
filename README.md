@@ -33,7 +33,7 @@ To report a bug, [click here](http://sailsjs.com/bugs).
 
 Please observe the guidelines and conventions laid out in the [Sails project contribution guide](http://sailsjs.com/documentation/contributing) when opening issues or submitting pull requests.
 
-[![NPM](https://nodei.co/npm/@sailshq/lodash.png?downloads=true)](http://npmjs.com/package/@sailshq/lodash)
+[![NPM](https://nodei.co/npm/@sailshq/lodash.png)](http://npmjs.com/package/@sailshq/lodash)
 
 ## License
 

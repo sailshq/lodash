@@ -1,13 +1,13 @@
 # @sailshq/lodash
 
-A fork of Lodash 3.10.x with ongoing maintenance from the Sails core team.
+A fork of Lodash 3.10.x with ongoing maintenance from the [Sails core team](http://sailsjs.com/about).
 
 This repo will only be updated when there are immediate, material issues affecting expected usage, like [this one](https://github.com/lodash/lodash/issues/2768).  Our goal is to diverge as little as possible, and to encourage the use of Lodash 4 and above whenever possible.  This repo is really just for us, and anyone else who really likes Lodash 3 exactly the way it is.
 
 **In other words, there will _never_ be any new methods or options added to Lodash on this fork, and consequently there will be no minor version or major version bumps from this fork-- only patches.**
 
 
-> ### Sails <=v0.12 users:
+> #### Sails <=v0.12 users:
 >
 > **This is the version of Lodash exposed as a default global (`_`) in Sails apps prior to Sails v1.0.**
 >
@@ -37,12 +37,14 @@ Please observe the guidelines and conventions laid out in the [Sails project con
 
 ## License
 
-### Lodash license
+#### Lodash license
 
 [Lodash](http://lodash.com) is free and open source under the [MIT License](https://github.com/lodash/lodash/blob/3.10.1/LICENSE).
 
-All ad hoc additions in this repo are also MIT-licensed.
+#### Supplementary license
 
-### Sails framework license
+All ad hoc additions in this repo are also MIT-licensed, copyright &copy; 2017 [The Sails Company](http://sailsjs.com/about).
+
+#### Sails framework license
 
 The [Sails framework](http://sailsjs.com) is free and open-source under the [MIT License](http://sailsjs.com/license).

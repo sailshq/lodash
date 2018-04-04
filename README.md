@@ -7,6 +7,7 @@ This repo will only be updated when there are immediate, material issues affecti
 **In other words, there will _never_ be any new methods or options added to Lodash on this fork, and consequently there will be no minor version or major version bumps from this fork-- only patches.**
 
 
+
 > #### Sails <=v0.12 users:
 >
 > **This is the version of Lodash exposed as a default global (`_`) in Sails apps prior to Sails v1.0.**
@@ -24,6 +25,12 @@ This repo will only be updated when there are immediate, material issues affecti
 > + [Click here](http://0.12.sailsjs.com/documentation/reference/configuration/sails-config-globals) to see how to disable that global and use your own version of Lodash.
 
 
+
+
+## Changes since lodash@3.10.1
+
+- [Make `_.isFunction()` properly detect arrow functions (`()=>{}`) and AsyncFunctions (`async function(){}` or `async ()=>{}`)](https://github.com/lodash/lodash/issues/2768)
+- [Fix prototype polution security vulnerability](https://github.com/lodash/lodash/issues/2768) _(see also JD's comments [here](https://hackerone.com/reports/310443))_
 
 ## Bugs &nbsp; [![npm version](https://badge.fury.io/js/%40sailshq%2Flodash.svg)](https://badge.fury.io/js/%40sailshq%2Flodash)
 
